@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OrdersFront",
+    "\\OrdersFront\\src",
+    "\\OrdersFront\\src\\app",
+    "\\OrdersFront\\src\\app\\create",
+    "\\OrdersFront\\src\\app\\models",
+    "\\OrdersFront\\src\\app\\order-list",
+    "\\OrdersFront\\src\\assets",
+    "\\OrdersFront\\src\\environments",
+    "\\VerytelPizzaShop"
+  ],
+  "SelectedNode": "\\OrdersFront\\src\\app\\app.module.ts",
+  "PreviewInSolutionExplorer": false
+}
